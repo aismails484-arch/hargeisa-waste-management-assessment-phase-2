@@ -1,15 +1,18 @@
-# Hargeisa Waste Management - Phase 2 Technical Assessment
-**Lead Researcher:** Ahmed Ismail Saed Hussein  
-**Affiliation:** Ministry of Environment and Climate Change, Republic of Somaliland.
+# Strategic Assessment of Urban Sanitation & Environmental Risks (Phase 2)
+**Principal Researcher:** Ahmed Ismail Saed Hussein  
+**Agency:** Ministry of Environment and Climate Change, JSL.
 
-## 📋 Executive Proposal
-This repository contains a strategic field assessment focusing on urban sanitation logistics and environmental risk mapping. The goal is to provide a data-driven action plan for waste management in the capital’s high-risk districts.
+## 🏛️ Executive Proposal
+This investment-ready technical study focuses on Hargeisa’s urban sanitation infrastructure. It utilizes geospatial risk mapping to address waste bottlenecks in high-density districts, providing a roadmap for public-private partnerships in urban resilience.
 
-### 📂 Internal Research Files
-* [Phase 2 Technical Report](Phase2_Report.md)
-* [Waste Management Action Plan](Waste_Management_Action_Plan_Phase2.md)
-* [Risk Areas Analysis](Risk_Areas_Analysis_Phase2.md)
+### 📂 Research Assets
+* [Technical Field Report](Phase2_Report.md)
+* [Sanitation Action Plan](Waste_Management_Action_Plan_Phase2.md)
 
-### 🚀 Institutional & Project Network
-* **Private Research Hub:** [SPH Global Strategic Portal](https://sph-institutional-repository-v2.vercel.app)
-* **Related Projects:** [National Waste Unit](https://github.com/aismails484-arch/waste-management-unit-republicofsomaliland-hargeisa) | [Rural Health](https://github.com/aismails484-arch/huluul-district-rural-health-analysis-project) | [Water Access](https://github.com/aismails484-arch/huluul-district-water-access-analysis-project) | [Agri-Scaling](https://github.com/aismails484-arch/Sanaag-Agricultural-Production-Scaling) | [Eco-Tourism](https://github.com/aismails484-arch/Sanaag-Eco-Conservation-Tourism) | [Maritime Blue Economy](https://github.com/aismails484-arch/Sanaag-Maritime-Infrastructure-Blue-Economy) | [Natural Resources](https://github.com/aismails484-arch/Sanaag-Natural-Resources-Analysis) | [Renewable Grid](https://github.com/aismails484-arch/Sanaag-Renewable-Energy-Grid) | [Economic Corridor](https://github.com/aismails484-arch/Sanaag-Saaxil-Economic-Tourism-Corridor) | [Robotics Hub](https://github.com/aismails484-arch/Somaliland-National-Digital-Innovation-Robotics-Hub)
+### 🚀 Institutional & Project Network (12 Links)
+* 🌐 **Master Hub:** [SPH Global Strategic Portal](https://sph-institutional-repository-v2.vercel.app)
+* 📑 **National Mandates:** [Hargeisa Waste Phase 2](https://github.com/aismails484-arch/hargeisa-waste-management-assessment-phase-2) | [National Waste Unit](https://github.com/aismails484-arch/waste-management-unit-republicofsomaliland-hargeisa)
+* 🏗️ **Infrastructure:** [Rural Health](https://github.com/aismails484-arch/huluul-district-rural-health-analysis-project) | [Water Access](https://github.com/aismails484-arch/huluul-district-water-access-analysis-project) | [Renewable Grid](https://github.com/aismails484-arch/Sanaag-Renewable-Energy-Grid)
+* 🌾 **Production:** [Agri-Scaling](https://github.com/aismails484-arch/Sanaag-Agricultural-Production-Scaling) | [Natural Resources](https://github.com/aismails484-arch/Sanaag-Natural-Resources-Analysis) | [Eco-Tourism](https://github.com/aismails484-arch/Sanaag-Eco-Conservation-Tourism)
+* 🚢 **Trade & Tech:** [Maritime Economy](https://github.com/aismails484-arch/Sanaag-Maritime-Infrastructure-Blue-Economy) | [Economic Corridor](https://github.com/aismails484-arch/Sanaag-Saaxil-Economic-Tourism-Corridor) | [Robotics Hub](https://github.com/aismails484-arch/Somaliland-National-Digital-Innovation-Robotics-Hub)
+* ⚖️ **Governance:** [Ceelafweyn/Legal Frameworks](https://sph-institutional-repository-v2.vercel.app)
